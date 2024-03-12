@@ -1,4 +1,4 @@
-Restaurant Management Backend using Django REST API
+#Restaurant Management Backend using Django REST API
 
 Overview
 This project implements the backend part of a restaurant management application using Django REST API. The backend is responsible for managing various aspects of restaurant operations including orders, reservations, accounts, and menu items. It provides a RESTful API that can be consumed by frontend applications to perform CRUD operations on the data.
